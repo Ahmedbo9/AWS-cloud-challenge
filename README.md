@@ -11,6 +11,9 @@ The architecture includes:
 - **Amazon DynamoDB**: Stores dynamic content data.
 - **AWS Lambda**: Executes backend logic without provisioning or managing servers.
 
+  <img width="800" alt="Screenshot 2024-03-06 at 2 34 33 AM" src="https://github.com/Ahmedbo9/AWS-cloud-challenge/assets/65826519/b726e752-e16c-4f51-87dd-95d29b87f004">
+
+
 ## Components
 
 ### Amazon S3
